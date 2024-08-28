@@ -10,5 +10,4 @@ div{
     left: calc(50% - 100px);
     background-color: red;
     transition: 0.5s;
-    border-radius: 100%;
 }

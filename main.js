@@ -1,7 +1,7 @@
 var logo = document.querySelector('#logo')
 
 // speed of movement
-var speed = 50;
+var speed = 20;
 
 // assinging directions randomly
 var direction = {
